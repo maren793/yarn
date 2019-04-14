@@ -1,0 +1,12 @@
+{
+  "name": "yarn",
+  "version": "1.0.0",
+  "description": "Adding jQuery",
+  "main": "index.js",
+  "repository": "https://github.com/maren793/yarn",
+  "author": "Maren Grimstad",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.4.0"
+  }
+}
